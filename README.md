@@ -34,7 +34,8 @@ plt.ylabel("feature 2")
 plt.title("Random classifiction data with 2 classes")
 
 ## Output:
-![Ex no 1.Random Classifier plot](XXX.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/75234946/162910739-ae26bb7a-4c5e-4673-ab2d-62a6888de59f.png)
+
 
 
 ## Result:
