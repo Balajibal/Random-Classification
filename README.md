@@ -7,12 +7,17 @@ To write a python program to perform random classification.
 2. Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Related Theoritical Concept:
+Multiclass Classification
+In multi-class classification, the neural network has the same number of output nodes as the number of classes. Each output node belongs to some class and outputs a score for that class. Class is a category for example Predicting animal class from an animal image is an example of multi-class classification, where each animal can belong to only one category.
+
+The number of classifier models depends on the classification technique we are applying to. •One vs. All:- N-class instances then N binary classifier models •One vs. One:- N-class instances then N* (N-1)/2 binary classifier models •The Confusion matrix is easy to derive but complex to understand.
 
 ## Algorithm
-1.start
-2.
-3.
-4.stop
+1.define dataset with centers=3 
+2.summarize dataset shape 
+3.ummarize observations by class label 
+4.summarize first few examples 
+5.plot the dataset and color the by class label
 
 ## Program:
 ```
